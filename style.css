@@ -1,0 +1,24 @@
+body{
+    background-color:chocolate;
+
+}
+h1{
+    color:seagreen;
+    background-color:crimson;
+}
+#score {
+    font-size: 50px;
+    margin-left: 50px;
+}
+#timer {
+    font-size: 50px;
+    margin-right: 50px;
+    float: right;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+#STBD{
+    color: darkgoldenrod;
+}
